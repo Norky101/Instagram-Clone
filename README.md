@@ -39,6 +39,7 @@ GIF created with ...
 
 LINKS TO GIFS: 
 https://i.imgur.com/m2sTFIm.gif
+
 https://i.imgur.com/Mr7X66p.gif
 ## Notes
 
