@@ -2,7 +2,7 @@
 
 Submitted by: **Noah Pilkington**
 
-**Instagram Clone** is an app that introduces ... [TODO] 
+**Instagram Clone** is an app that introduces camera access, multiple user accounts store via a database, and friendly UI/UX!
 
 Time spent: **6** hours spent in total
 
